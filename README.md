@@ -11,7 +11,7 @@
   - Males use bikes more frequently than females and the distribution by among in each gender group is about the same
   - Both males and females tend to use bikes more often durin the workweek
 - *supporting images and Tableau story included in repo*
-- link to dashboard (https://public.tableau.com/profile/matthew.stadler2111#!/vizhome/CitiBike_Module14/CityBike?publish=yes)
+- link to dashboard (https://public.tableau.com/profile/matthew.stadler2111#!/vizhome/CitiBike_Module14/CityBike?publish=yes) *note: on the first two line graphs I couldn't figure out how to resize them properly, but the data is all correct and you just need to scroll across the x-axis*
 
 ## Summary
 - Overall, Males use bikes much more frequently than Females, and bike usage follows a predictable pattern - peaks during the workweek commutes and leisure rides during the weekends. 
