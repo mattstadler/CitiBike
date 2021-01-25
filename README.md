@@ -10,7 +10,8 @@
   - During the workweek, rides are most common during the morning and evening commutes; during the weekend, rides are most common midday
   - Males use bikes more frequently than females and the distribution by among in each gender group is about the same
   - Both males and females tend to use bikes more often durin the workweek
-**supporting images and Tableau story included in repo**
+- *supporting images and Tableau story included in repo*
+- link to dashboard (https://public.tableau.com/profile/matthew.stadler2111#!/vizhome/CitiBike_Module14/CityBike?publish=yes)
 
 ## Summary
 - Overall, Males use bikes much more frequently than Females, and bike usage follows a predictable pattern - peaks during the workweek commutes and leisure rides during the weekends. 
